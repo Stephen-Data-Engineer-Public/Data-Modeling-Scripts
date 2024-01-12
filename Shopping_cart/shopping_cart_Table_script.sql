@@ -24,4 +24,4 @@ CREATE TABLE dbo.items_by_name
     description            VARCHAR         NOT NULL,
     price                  DECIMAL         NOT NULL
 );
--- Table for carts by user
+-- Table for carts by users
